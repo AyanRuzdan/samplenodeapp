@@ -1,6 +1,6 @@
 # Sample Node.js Project
 
-This is a sample Node.js project with a simple addition function and a testing script.
+This is a sample Node.js project with a simple addition function and a testing script using `mocha`.
 
 ## GitHub Actions Pipeline
 
